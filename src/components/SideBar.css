@@ -1,0 +1,134 @@
+@media  (min-width: 992px)
+{
+.menu-link
+{
+    padding:0px;
+    width:200px !important;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    background: black;
+    box-shadow: 0 16px 38px -12px rgb(0 0 0 / 56%), 0 4px 25px 0px rgb(0 0 0 / 12%), 0 8px 10px -5px rgb(0 0 0 / 20%);
+}
+}
+
+li {
+    list-style: none;
+    text-align: left;
+    padding: 10px;
+}a.menu-list {
+    text-decoration: none;
+    font-size: 17px;
+    padding: 10px;
+}
+/* li:hover {
+    background:rgb(199, 223, 236) ;
+    box-shadow: 2px 2px 2px 2px rgb(202, 184, 160);
+    color:black;
+} */
+.sidebar-menu {
+    width: 200px;
+    background: black !important;
+}
+a.menu-list {
+    font-style: oblique;
+    font-weight: 500;
+}
+.task-logo {
+    padding: 15px;
+
+}
+img.logo {
+    border: 1px solid black;
+    padding: 5px;
+    z-index: 2;
+    width: 150px;
+    background: white;
+}
+.list-items {
+    padding: 8px;
+}
+a.nav-link.activeRoute {
+    background-color: #9c27b0 !important;
+    color: #fff !important;
+    box-shadow: 0 4px 20px 0px rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(156 39 176 / 40%) !important;
+}
+.nav-link {
+    display: block;
+    padding: 0rem !important;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+i.fa.fa-fw {
+    padding-right: 25px;
+}
+hr:not([size]) {
+    height: 2px;
+    color: cadetblue;
+}
+button.btn.btn-primary {
+    margin-top: 20px;
+    /* margin-left: 20px; */
+}
+@media  (max-width: 991px)
+{
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    margin-left: 70px;
+    font-size: 15px;
+}
+.menu-link
+{
+    padding:0px;
+    width:200px !important;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+    background: black;
+    box-shadow: 0 16px 38px -12px rgb(0 0 0 / 56%), 0 4px 25px 0px rgb(0 0 0 / 12%), 0 8px 10px -5px rgb(0 0 0 / 20%);
+}
+.controls {
+
+    z-index: 99 !important;
+    display: flex;
+}
+button.openbtn {
+    z-index: 99;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 12px;
+        width: 30px;
+}
+.table-head {
+    padding: 10px;
+}
+}
+.activeClassName:active
+{
+    background-color: blanchedalmond;
+}
+ol, ul {
+    padding-left: 0rem !important;
+  }
+.li a.nav-link:active
+  {
+    background-color: black;
+  }
+  .navbar__link--active {
+    background:white ;
+    box-shadow: 2px 2px 2px 2px rgb(202, 184, 160);
+
+  }
+  .nav-link:hover
+  {
+      background-color: rgb(187, 211, 194);
+      box-shadow: -1px 4px 28px 0px rgb(216 216 216 / 50%);
+}
+i.fas.fa-clipboard-list {
+    padding-right: 10px;
+  }
+  

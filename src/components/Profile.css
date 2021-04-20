@@ -1,0 +1,42 @@
+.user-profile {
+    margin-left: 250px;
+    margin-top: 50px;
+ 
+    background: white;
+    /* box-shadow: 2px 2px 2px 2px white; */
+
+}
+img.img-radius {
+    left: 30%;
+    display: flex;
+    position: relative;
+}
+h6.Profile-name {
+    text-align: center;
+    font-size: 40px;
+    padding-right: 53px;
+}
+.user-email {
+    padding: 10px;
+}
+.user-active {
+    padding: 10px;
+}
+.user-modified
+{
+    padding: 10px;
+}
+.user-created {
+    padding: 10px;
+}
+.col-lg-6.col-md-5.col-sm-12.color-space {
+    background: blanchedalmond;
+}
+.col-lg-6 .col-md-7 .col-sm-12 .text-space>span {
+    color: blue;
+    padding-left: 5px;
+  }
+  span.right-text {
+    color: blue;
+    padding-left: 5px;
+}
