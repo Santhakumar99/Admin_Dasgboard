@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Santhakumar99/Admin_Dashboard.git/static/css/main.539e6df9.chunk.css",
+    "main.js": "/Santhakumar99/Admin_Dashboard.git/static/js/main.efc3c446.chunk.js",
+    "main.js.map": "/Santhakumar99/Admin_Dashboard.git/static/js/main.efc3c446.chunk.js.map",
+    "runtime-main.js": "/Santhakumar99/Admin_Dashboard.git/static/js/runtime-main.7c8ac4d2.js",
+    "runtime-main.js.map": "/Santhakumar99/Admin_Dashboard.git/static/js/runtime-main.7c8ac4d2.js.map",
+    "static/js/2.41217955.chunk.js": "/Santhakumar99/Admin_Dashboard.git/static/js/2.41217955.chunk.js",
+    "static/js/2.41217955.chunk.js.map": "/Santhakumar99/Admin_Dashboard.git/static/js/2.41217955.chunk.js.map",
+    "static/js/3.c26b5810.chunk.js": "/Santhakumar99/Admin_Dashboard.git/static/js/3.c26b5810.chunk.js",
+    "static/js/3.c26b5810.chunk.js.map": "/Santhakumar99/Admin_Dashboard.git/static/js/3.c26b5810.chunk.js.map",
+    "index.html": "/Santhakumar99/Admin_Dashboard.git/index.html",
+    "static/css/main.539e6df9.chunk.css.map": "/Santhakumar99/Admin_Dashboard.git/static/css/main.539e6df9.chunk.css.map",
+    "static/js/2.41217955.chunk.js.LICENSE.txt": "/Santhakumar99/Admin_Dashboard.git/static/js/2.41217955.chunk.js.LICENSE.txt",
+    "static/media/rm-logo.00d63590.png": "/Santhakumar99/Admin_Dashboard.git/static/media/rm-logo.00d63590.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8ac4d2.js",
+    "static/js/2.41217955.chunk.js",
+    "static/css/main.539e6df9.chunk.css",
+    "static/js/main.efc3c446.chunk.js"
+  ]
+}
